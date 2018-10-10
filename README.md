@@ -9,7 +9,7 @@ Bill Of Materials
   
 - 1 ea., Perfect Purple PCB from OSH Park, with not so perfect layout from kicad.pcb file.
 - 1 ea., U1 IC REG LINEAR 3.3V 150MA SOT23-5, LP2985-33DBVRG4, https://www.digikey.com/short/j29pqr
-- 1 ea., U2 IC OPAMP GP 1MHZ RRO 8VSSOP, LMV358IDGKR, https://www.digikey.com/short/j29pj7
+- 1 ea., U2 IC OPAMP GP 1MHZ RRO 8VSSOP, LM358DGKR, https://www.digikey.com/short/jnd53r
 - 1 ea., U3 IC REG LINEAR 5V 1A SOT223 NCP1117ST50T3G, https://www.digikey.com/short/j29pqc
 - 1 ea., U4 ATMEGA32U4-AU, IC MCU 8BIT 32KB FLASH 44TQFP, https://www.digikey.com/short/jb25pc
 - 1 ea., Q1 MOSFET P-CH 20V 2A SSOT3, FDN340P, https://www.digikey.com/short/j29ppj
@@ -35,6 +35,7 @@ Bill Of Materials
 - 1 ea., 6-Pin header, https://www.digikey.com/short/jwj4w4
 - 2 ea., 8-Pin header, https://www.digikey.com/short/jwj4dp
 - 1 ea., 10-Pin header, https://www.digikey.com/short/jwj4n7
+- 1 ea., 2x3 Pin header, http://www.digikey.com/short/3m33n0
 
 
 License
